@@ -1,0 +1,1 @@
+export const SOLD_CAKE = 'SOLD_CAKE'
